@@ -1,6 +1,6 @@
 # Pedido de Namoro Irrecusavel
 
-![preview]([https://github.com/mvfernando/Pedido-de-namoro-irrecusavel/assets//img/preview-la2f.png](https://github.com/mvfernando/Pedido-de-namoro-irrecusavel/blob/main/assets/imgs/preview-pdnmi.png))
+![preview](https://github.com/mvfernando/Pedido-de-namoro-irrecusavel/blob/main/assets/imgs/preview-pdnmi.png)
 
 
 > Mentória | Exercício para alunos 👨🏽‍💻
