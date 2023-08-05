@@ -50,7 +50,7 @@
 
 /* MODAL */
 
-.modal {
+.modal_md {
   visibility: hidden;
   opacity: 0;
   position: absolute;
@@ -65,7 +65,7 @@
   transition: all .4s;
 }
 
-.modal:target {
+.modal_md:target {
   visibility: visible;
   opacity: 1;
 }
